@@ -2,9 +2,9 @@
 
 ### Details
 
-Frequency: 1/wk <br/>
-Length: 25-40 mins <br/>
-Format: News/Info with occasional interviews <br/>
+Frequency: 1/wk\
+Length: 25-40 mins\
+Format: News/Info with occasional interviews
 
 ### Generic show outline
 

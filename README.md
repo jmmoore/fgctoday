@@ -1,10 +1,9 @@
 # FGC Today: A Weekly Podcast looking at Competitive Fighting Games
 
-## Details
-
-Frequency: 1/wk
-Length: 25-40 mins
-Format: News/Info with occasional interviews
+#
+Frequency: 1/wk <br/>
+Length: 25-40 mins <br/>
+Format: News/Info with occasional interviews <br/>
 
 ## Generic show outline
 
